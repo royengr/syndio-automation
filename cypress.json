@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://syndio-test.herokuapp.com/?group=a9f6a4b7-d03c-4a45-b64b-791e054f36b8",
+  "chromeWebSecurity": false,
+  "integrationFolder": "specs",
+  "video": false,
+  "supportFile": "support/index.js",
+  "requestTimeout": 10000
+}
+
+
